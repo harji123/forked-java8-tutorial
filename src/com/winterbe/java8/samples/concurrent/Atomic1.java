@@ -22,6 +22,7 @@ public class Atomic1 {
         testUpdate();
     }
 //this is good
+    //dfgdfgd
     private static void testUpdate() {
         atomicInt.set(0);
 
