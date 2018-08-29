@@ -21,7 +21,7 @@ public class Atomic1 {
         testAccumulate();
         testUpdate();
     }
-
+//this is good
     private static void testUpdate() {
         atomicInt.set(0);
 
